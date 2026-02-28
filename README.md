@@ -1,13 +1,10 @@
-### Hi, I'm Hashim 👋
+### Hey, I'm Hashim 👋
 
 **Tech Lead – Active Safety Systems | Self-Driving Simulation Infrastructure | End-to-End Development & Automation 🫰**
 
 <p align="center">
-  <a href="https://linkedin.com/in/hashim-abdul-ali" target="_blank">
+  <a href="https://linkedin.com/in/hashimabdul" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/impressostudios" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -17,12 +14,8 @@
 - Enjoy working across C++, ROS, IPG CarMaker, CARLA, VTD, and cloud/automation tools to make complex systems testable.
 
 ### Work
-- **Sr. Simulation Technical Lead – Visteon ** 
-
-### Skills
-- **Core**: C++, Python, Qt, ROS, IPG CarMaker, Vires VTD, Simulink/Matlab, CAN, test automation, tool development.  
-- **Domains**: ADAS/AD, active safety, simulation (SIL/HIL/DIL), robotics, embedded systems, feature validation & KPIs.  
-<p align="left">
+- **Sr. Simulation Technical Lead – Visteon Corporation ** 
+<p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -46,19 +39,21 @@
   </a>
 </p>
 
-### Hobby
-- Photographer at **Iᴍᴘʀᴇssᴏ Sᴛᴜᴅɪᴏs™  
+### Photography
+<p align="left">
+  <a href="https://instagram.com/impressostudios" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ### Volunteering & Community
-- Mentor for University of Michigan graduate students (Mentor Collective).  
-- Leadership roles with **IEEE** (Student Activities Chair – SE Michigan, Student Network Representative – Hyderabad).  
+- Mentor for University of Michigan graduate students.  
+- **IEEE** (Student Activities Chair – SE Michigan, Student Network Representative – Hyderabad).  
 
 ### Publications
-- **ROM based Carry Look Ahead Adder for Low Power VLSI Circuits** – ICPET 2016 - ROM‑based multi‑input CLA design to reduce switching activity and dynamic power in CMOS logic.
+- **ROM based Carry Look Ahead Adder for Low Power VLSI Circuits** – ISBN 978-93-5258-110-8 pp. 470-475 ICPET-2016
 
 ### Let's Connect
 <p align="left">
 <a href="https://linkedin.com/in/hashimabdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hashimabdul" height="30" width="40" /></a>
-<a href="https://instagram.com/impressostudios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="impressostudios" height="30" width="40" /></a>
 </p>
-
