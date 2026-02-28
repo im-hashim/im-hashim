@@ -14,7 +14,7 @@
 - Enjoy working across C++, ROS, IPG CarMaker, CARLA, VTD, and cloud/automation tools to make complex systems testable.
 
 ### Work
-- **Sr. Simulation Technical Lead – Visteon Corporation ** 
+- Sr. Simulation Technical Lead – Visteon Corporation
 <p align="center">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
