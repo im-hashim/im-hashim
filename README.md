@@ -16,28 +16,26 @@
 ### Work
 - Sr. Simulation Technical Lead – Visteon Corporation
 <p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  </a>
   <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/openrobotics/artwork/7d0d9af3792c5ea6ea2677ebfd449e067f020dca/orgunits/ros.svg" alt="ROS" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
+
+### Volunteering & Community
+- Mentor for University of Michigan
+- IEEE
+
+### Publications
+- **ROM based Carry Look Ahead Adder for Low Power VLSI Circuits** – ISBN 978-93-5258-110-8 pp. 470-475 ICPET-2016
 
 ### Photography
 <p align="left">
@@ -45,13 +43,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-### Volunteering & Community
-- Mentor for University of Michigan graduate students.  
-- **IEEE** (Student Activities Chair – SE Michigan, Student Network Representative – Hyderabad).  
-
-### Publications
-- **ROM based Carry Look Ahead Adder for Low Power VLSI Circuits** – ISBN 978-93-5258-110-8 pp. 470-475 ICPET-2016
 
 ### Let's Connect
 <p align="left">
