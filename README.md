@@ -42,14 +42,9 @@
 - Enjoy working across C++/Python/Qt, ROS, IPG CarMaker, VTD, and cloud/automation tooling to make complex systems testable.
 
 ### Experience
-**Sr. Simulation Technical Lead – Visteon Corporation**  
-MICHIGAN 
-- Delivering ADAS/AD DriveCore™ and VisionCore™ applications with unified simulation infrastructure across multiple ECUs.  
-- Architecting in‑house Very Large Scale Automation (VLSA) for validation, KPIs, and regression at scale.  
-
-**AV Tech – University of Michigan**  
-
-**Intern R&D – InSignia Labs Tech Pvt. Ltd.**  
+- **Sr. Simulation Technical Lead – Visteon Corporation**  
+- **AV Tech – University of Michigan**  
+- **Intern R&D – InSignia Labs Tech Pvt. Ltd.**  
 
 ### Education
 - **Doctor of Engineering (A.B.D.) – Automotive Systems & Mobility**, University of Michigan  
